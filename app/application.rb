@@ -29,7 +29,5 @@ class Application
     end
   end
 
-  def cart
-  end
 
 end
