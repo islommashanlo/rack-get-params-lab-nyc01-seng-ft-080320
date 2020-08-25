@@ -31,5 +31,5 @@ class Application
 
   def cart
   end
-    
+
 end
